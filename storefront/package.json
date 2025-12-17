@@ -57,7 +57,7 @@
     "react-intersection-observer": "^9.16.0",
     "server-only": "^0.0.1",
     "tailwindcss-radix": "^2.9.0",
-    "webpack": "^5.104.0"
+    "webpack": "^5.104.0",
   },
   "devDependencies": {
     "@babel/core": "^7.28.5",
